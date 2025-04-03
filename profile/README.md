@@ -6,7 +6,7 @@
 
 ### 주요 기능
 ✔️ **맞춤형 포트폴리오 구성**  
-![Uploading Untitled video - Made with Clipchamp.gif…]()
+![비율 기반 일괄 투자](https://github.com/user-attachments/assets/971135bb-f706-441c-93fd-a64f0135b4ce)
 사용자는 원하는 금액과 투자 비율에 따라 포트폴리오를 생성할 수 있습니다. 예를 들어, 50만 원 중 20%를 애플 주식에, 나머지 80%를 삼성전자 주식에 투자할 수 있습니다.  
 
 ✔️ **수익률 순위 확인**  
